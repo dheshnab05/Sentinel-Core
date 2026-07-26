@@ -1,5 +1,5 @@
 # 2026-Sentinel-Core-A-Multi-Layered-Cyber-Resilient-Framework-for-Securing-Autonomous-LLM-Assistants
-https://idea.unisys.com/D8958
+
 
 ### **Description**
 Sentinel-Core is a cyber-resilient framework designed to enhance the security of autonomous AI systems operating in dynamic and high-risk environments. The framework adopts a structured, multi-layered approach to ensure that AI-driven decisions remain aligned with intended user goals.
